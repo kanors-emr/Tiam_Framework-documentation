@@ -14,6 +14,14 @@ Welcome to TIAM Framework's documentation!
    pages/Primary energy supply
    pages/Power sector
    pages/Liquid fuels processing
+   pages/Hydrogen
+   pages/Energy trades
+   pages/Transport
+   pages/Industry
+   pages/Residential and commercial buildings
+   pages/Agriculture
+   pages/Carbon capture and storage (CCS)
+   pages/Demand projection
 
 Indices and tables
 ==================
