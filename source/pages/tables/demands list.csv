@@ -1,0 +1,21 @@
+Demand,Description,Unit
+AGR,Agriculture Demand,PJ
+CSC,Commercial Space Cooling,PJ
+CCK,Commercial Cooking,PJ
+CSH,Commercial Space Heating,PJ
+CHW,Commercial Hot Water,PJ
+CLA,Commercial Lighting,PJ
+COE,Commercial Office Equipment,PJ
+CRF,Commercial Refrigeration,PJ
+COT,Commercial Other,PJ
+RSC,Residential Space Cooling,PJ
+RCD,Residential Clothes Drying,PJ
+RCW,Residential Clothes Washing,PJ
+RDW,Residential Dishwashing,PJ
+REA,Residential Other Electric,PJ
+RSH,Residential Space Heating,PJ
+RHW,Residential Hot Water,PJ
+RCK,Residential Cooking,PJ
+RLI,Residential Lighting,PJ
+RRF,Residential Refrigeration,PJ
+ROT,Residential Other,PJ

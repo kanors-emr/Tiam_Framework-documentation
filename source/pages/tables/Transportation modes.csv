@@ -1,0 +1,15 @@
+RAIL,Freight
+RAIL,Passengers
+ROAD,Auto
+ROAD,Light Trucks
+ROAD,Three Wheels
+ROAD,Two Wheels
+ROAD,Bus
+ROAD,Heavy Trucks
+ROAD,Medium Trucks
+ROAD,Commercial Trucks
+International Aviation,
+Domestic Aviation,
+Domestic Navigation,
+International Navigation,
+Non Energy Uses,

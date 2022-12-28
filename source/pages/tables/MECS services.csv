@@ -1,0 +1,10 @@
+TIAM,Description,MECS service
+STM,Steam,Conventional Boiler Use
+PRH,Process heat,Process Heating
+PRC,Process Cool,Process Cooling and Refrigeration
+MDR,Machine drive,Machine Drive
+ECP,Electrochemical,Electro-Chemical Processes
+OTP,Other process,Other Process Use
+SPC,Space conditioning,Facility HVAC
+LIG,Lighting,Facility Lighting
+OTH,Other facility,"Other Facility Support, Onsite Transportation, Conventional Electricity Generation, Other Non-process Use"

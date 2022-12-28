@@ -1,0 +1,12 @@
+TIAM Ind,Description,IEA FLOW
+ICH,Chemicals,CHEMICAL
+IFP,Food processing,FOODPRO
+IIS,Iron and Steel,IRONSTL
+ILP,Pulp and Paper,PAPERPRO
+IMC,Mining and Construction,"CONSTRUC,MINING"
+INF,Non-ferrous metals,NONFERR
+INM,Non-metals,NONMET
+IOI,Other,"INONSPEC,TEXTILES,WOODPRO"
+ITM,Transport equip and machinery,"MACHINE,TRANSEQ"
+ICH_Feedstock,Chemical Feedstock,NECHEM
+ONO,Other non-specified,ONONSPEC
