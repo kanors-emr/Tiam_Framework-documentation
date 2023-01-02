@@ -9,6 +9,9 @@ The TIAM Framework
 Introduction
 ^^^^^^^^^^^^^
 
+TIAM (the TIMES Integrated Assessment Model) is a bottom-up, technology rich, least-cost optimization, multi-regional global integrated assessment model,
+which is developed using the TIMES model generator of IEA-ETSAP.
+
 * Rapid construction of Global TIMES models that focus on particular countries or regions – to serve as worthy starting points for further refinement with country and domain experts.
 * Models are deployed online – fully functional via Internet Browsers.
 
