@@ -1,15 +1,16 @@
-RAIL,Freight
-RAIL,Passengers
-ROAD,Auto
-ROAD,Light Trucks
-ROAD,Three Wheels
-ROAD,Two Wheels
-ROAD,Bus
-ROAD,Heavy Trucks
-ROAD,Medium Trucks
-ROAD,Commercial Trucks
-International Aviation,
-Domestic Aviation,
-Domestic Navigation,
-International Navigation,
-Non Energy Uses,
+Mode,Demand,Units
+RAIL,Freight,Petajoules
+RAIL,Passengers,Petajoules
+ROAD,Auto,Billion vkm
+ROAD,Light Trucks,Billion vkm
+ROAD,Three Wheels,Billion vkm
+ROAD,Two Wheels,Billion vkm
+ROAD,Bus,Billion vkm
+ROAD,Heavy Trucks,Billion vkm
+ROAD,Medium Trucks,Billion vkm
+ROAD,Commercial Trucks,Billion vkm
+Aviation,International Aviation,Petajoules
+Aviation,Domestic Aviation,Petajoules
+Shipping,Domestic Navigation,Petajoules
+Shipping,International Navigation,Petajoules
+Non Energy Uses,Non Energy Uses,Petajoules
