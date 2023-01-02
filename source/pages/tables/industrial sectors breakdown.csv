@@ -1,12 +1,12 @@
-TIAM Ind,Description,IEA FLOW
-ICH,Chemicals,CHEMICAL
-IFP,Food processing,FOODPRO
-IIS,Iron and Steel,IRONSTL
-ILP,Pulp and Paper,PAPERPRO
-IMC,Mining and Construction,"CONSTRUC,MINING"
-INF,Non-ferrous metals,NONFERR
-INM,Non-metals,NONMET
-IOI,Other,"INONSPEC,TEXTILES,WOODPRO"
-ITM,Transport equip and machinery,"MACHINE,TRANSEQ"
-ICH_Feedstock,Chemical Feedstock,NECHEM
-ONO,Other non-specified,ONONSPEC
+TIAM Industry,Units,Description,IEA FLOW
+ICH,Petajoules,Chemicals,CHEMICAL
+IFP,Petajoules,Food processing,FOODPRO
+IIS,mt,Iron and Steel,IRONSTL
+ILP,mt,Pulp and Paper,PAPERPRO
+IMC,Petajoules,Mining and Construction,"CONSTRUC,MINING"
+INF,mt,Non-ferrous metals,NONFERR
+INM,mt,Non-metals,NONMET
+IOI,Petajoules,Other,"INONSPEC,TEXTILES,WOODPRO"
+ITM,Petajoules,Transport equip and machinery,"MACHINE,TRANSEQ"
+ICH_Feedstock,Petajoules,Chemical Feedstock,NECHEM
+ONO,Petajoules,Other non-specified,ONONSPEC
