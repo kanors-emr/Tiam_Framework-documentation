@@ -34,7 +34,7 @@ The maximum capacity of each of the three additional "grids" is bounded as a sha
 
         LDGrid_n ≤ γ ×PMHG_n⁄8.76
 
-Values literal `, , , and ` and the investment cost of each grid are under user control and can be changed in the model instance generator.
+Values δ, α, β, and γ  and the investment cost of each grid are under user control and can be changed in the model instance generator.
 Note that these constraints are implemented at the country level, regardless of how countries are aggregated into model regions. They are intended to prevent, for example, Iceland's abundant wind resources from powering all of Europe's load, without appropriate transmission investment.
 Similar constraints may be added to prevent over-utilization of hydro resources in countries with large potential, without corresponding transmission investment.
 
