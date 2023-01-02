@@ -6,7 +6,7 @@ Industry
 
     .. csv-table::
         :file: tables/industrial sectors breakdown.csv
-        :widths: 10,50,40
+        :widths: 10,20,40,30
         :header-rows: 1
 
 * End-use fuel consumption splits into energy services sourced from 2018 MECS
