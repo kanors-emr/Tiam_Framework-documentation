@@ -47,7 +47,6 @@ Why TIAM Framework?
    pages/Agriculture
    pages/Carbon capture and storage (CCS)
    pages/Demand projection
-   pages/IEMM-power sector
 
 Indices and tables
 ==================
